@@ -1,12 +1,12 @@
 {
   "name": "demo",
   "authors": [
-    "msrethab <msrethab@gmail.com>"
+    "jayP22 <josh_Pre96@hotmail.com>"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "https://github.com/msrethab/06-SanDiegoTopSpots-Angular",
+  "homepage": "https://github.com/jayP22/06-SanDiegoTopSpots-Angular",
   "ignore": [
     "**/.*",
     "node_modules",
